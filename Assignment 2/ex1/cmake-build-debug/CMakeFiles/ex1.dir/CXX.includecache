@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kamiw/Desktop/RANDOM/UNI WORK/C++/Assignment 2/ex1/Person.h
+string
+-
+
+C:/Users/kamiw/Desktop/RANDOM/UNI WORK/C++/Assignment 2/ex1/Student.cpp
+string
+-
+iostream
+-
+Student.h
+C:/Users/kamiw/Desktop/RANDOM/UNI WORK/C++/Assignment 2/ex1/Student.h
+
+C:/Users/kamiw/Desktop/RANDOM/UNI WORK/C++/Assignment 2/ex1/Student.h
+string
+-
+map
+-
+stdexcept
+-
+Person.h
+C:/Users/kamiw/Desktop/RANDOM/UNI WORK/C++/Assignment 2/ex1/Person.h
+
+C:/Users/kamiw/Desktop/RANDOM/UNI WORK/C++/Assignment 2/ex1/ex1.cpp
+iostream
+-
+stdexcept
+-
+Student.h
+C:/Users/kamiw/Desktop/RANDOM/UNI WORK/C++/Assignment 2/ex1/Student.h
+
+C:/Users/kamiw/Desktop/RANDOM/UNI WORK/C++/Assignment 2/ex1/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+list
+-
+vector
+-
+map
+-
+Student.h
+C:/Users/kamiw/Desktop/RANDOM/UNI WORK/C++/Assignment 2/ex1/Student.h
+Person.h
+C:/Users/kamiw/Desktop/RANDOM/UNI WORK/C++/Assignment 2/ex1/Person.h
+
