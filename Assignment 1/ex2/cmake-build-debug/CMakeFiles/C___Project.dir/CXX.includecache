@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kamiw/Desktop/RANDOM/UNI WORK/Year 2/C++/Assignment 1/ex2/ReadWords.cpp
+ReadWords.h
+C:/Users/kamiw/Desktop/RANDOM/UNI WORK/Year 2/C++/Assignment 1/ex2/ReadWords.h
+cctype
+-
+string
+-
+iostream
+-
+algorithm
+-
+
+C:/Users/kamiw/Desktop/RANDOM/UNI WORK/Year 2/C++/Assignment 1/ex2/ReadWords.h
+string
+-
+fstream
+-
+

@@ -1,0 +1,3 @@
+C:/Users/kamiw/Desktop/RANDOM/UNI WORK/Year 2/C++/Assignment 1/ex2/cmake-build-debug/CMakeFiles/C___Project.dir
+C:/Users/kamiw/Desktop/RANDOM/UNI WORK/Year 2/C++/Assignment 1/ex2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kamiw/Desktop/RANDOM/UNI WORK/Year 2/C++/Assignment 1/ex2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
